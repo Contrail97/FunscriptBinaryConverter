@@ -1,5 +1,5 @@
-# OSRST 项目：Genijoy SR 脚本格式转换工具
-# OSRST Project: Genijoy SR Script Format Conversion Tools
+# FunscriptBinaryConverter 项目：Funscript 脚本格式转换工具
+# FunscriptBinaryConverter Project: Funscript Format Conversion Tools
 
 ---
 
